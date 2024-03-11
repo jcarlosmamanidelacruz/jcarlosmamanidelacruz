@@ -1,3 +1,4 @@
+
 <h1 align="center">Hola, soy Juan Carlos 👋</h1>
 
 [![Git-banner.png](https://i.postimg.cc/6qdv3bKm/Git-banner.png)](https://postimg.cc/GTm2gQHF)
@@ -68,30 +69,20 @@ Here are some ideas to get you started:
 
 <br>
 
-<h3>Datos estadísticos :-</h3>
-<p><img align="center"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=jcarlosmamanidelacruz&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
-    alt="jcarlosmamanidelacruz" 
-    bg_color=#808080/></p>
+<h3>Datos estadísticos</h3>
+<p align= "center">
+  <img height= "150" src="https://github-readme-stats.vercel.app/api?username=jcarlosmamanidelacruz&theme=react&show_icons=true&include_all_commits=true" />
+  <img height= "150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jcarlosmamanidelacruz&theme=react&layout=compact" />
+</p>
 
 <br>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jcarlosmamanidelacruz&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat"
-    alt="jcarlosmamanidelacruz" /></p>
-
-<br>
-<div style="display: flex;">
-  <div style="flex: 1;">
+<div align= "center" style="display: flex">
+  <div style="flex: 1; align:center">
     <a href="https://github.com/jcarlosmamanidelacruz/ETL-con-python">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=jcarlosmamanidelacruz&repo=ETL-con-python" alt="ETL-con-python - Proyecto ETL con MySQL, MongoDB, AWS y Análisis de Datos con Python." />
-    </a>
-
- 
-  </div>
-  <div style="flex: 1;">
-    <a href="https://github.com/PrudhviGNV/SpeechEmotionRecognization">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=PrudhviGNV&repo=SpeechEmotionRecognization" />
+      <p>Proyecto ETL con MySQL, MongoDB, AWS y Análisis de Datos con Python.</p>
     </a>
   </div>
 </div>
+
 
