@@ -8,19 +8,17 @@
 
 ✨ Sobre mí ✨
 
-Soy un desarrollador backend con una sólida experiencia en el manejo de bases de datos, ejecución de procesos ETL, programación en Python y desarrollo de Data Marts. Mi especialización incluye la extracción de datos desde fuentes transaccionales y NoSQL, transformación de datos para conformar estructuras de tipo estrella, y la posterior presentación de la información mediante dashboards utilizando Power BI.
+Soy un desarrollador backend con una sólida experiencia en el manejo de bases de datos, ejecución de procesos ETL, programación en Python y desarrollo de Data Marts. Mi especialización incluye la extracción de datos desde fuentes transaccionales y NoSQL, la transformación de datos para conformar estructuras de tipo estrella y la posterior presentación de la información mediante dashboards utilizando Power BI. Después de haber adquirido estas habilidades, estoy tomando un enfoque más específico en el campo de la ingeniería de datos y el procesamiento de big data, centrándome en las funcionalidades ofrecidas por las plataformas en la nube.
 
-Here are some ideas to get you started:
+Mis intereses y cómo podemos conectar:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-- 
+🔭 Actualmente estoy trabajando en el desarrollo de soluciones para el procesamiento de big data en plataformas en la nube.<br>
+🌱 Actualmente estoy aprendiendo sobre las últimas tecnologías y herramientas para el análisis y procesamiento de datos a gran escala en la nube.<br>
+👯 Estoy buscando colaborar en proyectos relacionados con el procesamiento de big data y la ingeniería de datos en entornos de nube.<br>
+💬 Pregúntame sobre desarrollo backend, manejo de bases de datos, ejecución de procesos ETL, y visualización de datos con herramientas como Power BI.<br>
+📫 Puedes contactarme a través de mi portafolio web [pronto mi portafolio] o a través de mi perfil de LinkedIn [pronto mi perfil en LinkedIn].<br>
+⚡ Dato curioso: ¡Me encanta explorar nuevas tecnologías y aprender cosas nuevas todos los días!<br>
+
 <br><br>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
