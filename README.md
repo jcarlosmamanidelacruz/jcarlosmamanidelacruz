@@ -1,7 +1,7 @@
 
 <h1 align="center">Hola, soy Juan Carlos 👋</h1>
 
-[![Git-banner.png](https://i.postimg.cc/6qdv3bKm/Git-banner.png)](https://postimg.cc/GTm2gQHF)
+[![Git-banner-2.png](https://i.postimg.cc/5Nvp1q4W/Git-banner-2.png)](https://postimg.cc/7fHSnzJK)
 
 <a href="https://www.tu-portafolio-web.com" target="_blanck"><img alt="Texto Alternativo" src="https://img.shields.io/badge/Portafolio-web-blue"></a>
 
