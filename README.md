@@ -16,7 +16,7 @@ Mis intereses y cómo podemos conectar:
 🌱 Actualmente estoy aprendiendo sobre las últimas tecnologías y herramientas para el análisis y procesamiento de datos a gran escala en la nube.<br>
 👯 Estoy buscando colaborar en proyectos relacionados con el procesamiento de big data y la ingeniería de datos en entornos de nube.<br>
 💬 Pregúntame sobre desarrollo backend, manejo de bases de datos, ejecución de procesos ETL, y visualización de datos con herramientas como Power BI.<br>
-📫 Puedes contactarme a través de mi portafolio web [pronto mi portafolio] o a través de mi perfil de LinkedIn [pronto mi perfil en LinkedIn].<br>
+📫 Puedes contactarme a través de mi portafolio web [pronto mi portafolio] o a través de mi perfil de LinkedIn <a href="https://www.linkedin.com/in/jmamanidelacruz" target="_blank"> [ir mi perfil en LinkedIn] </a>.<br>
 ⚡ Dato curioso: ¡Me encanta explorar nuevas tecnologías y aprender cosas nuevas todos los días!<br>
 
 <br><br>
